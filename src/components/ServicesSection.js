@@ -8,7 +8,7 @@ import home2 from "../img/home2.png";
 
 const ServicesSection = props => {
   return (
-    <div className="services">
+    <div className="services-section">
       <div className="description">
         <h2>
           High <span>quality</span> service
